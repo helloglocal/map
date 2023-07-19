@@ -1,4 +1,4 @@
-var data = [
+[
     {
         "code": "GB",
         "name": "United Kingdom",
@@ -398,5 +398,13 @@ var data = [
         "long": 104.1954,
         "continent": "Asia",
         "flag": "https://flagcdn.com/cn.svg"
+    },
+    {
+        "code": "AR",
+        "name": "Argentina",
+        "lat": -34.6037,
+        "long": -58.3816,
+        "continent": "South America",
+        "flag": "https://flagcdn.com/ar.svg"
     }
 ]
