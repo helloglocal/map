@@ -426,6 +426,14 @@ d3.json("https://d3js.org/world-110m.v1.json").then(function (world) {
             "long": 104.1954,
             "continent": "Asia",
             "flag": "https://flagcdn.com/cn.svg"
+        },
+        {
+            "code": "AR",
+            "name": "Argentina",
+            "lat": -34.6037,
+            "long": -58.3816,
+            "continent": "South America",
+            "flag": "https://flagcdn.com/ar.svg"
         }
     ]
 
