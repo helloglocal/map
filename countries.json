@@ -382,5 +382,21 @@ var data = [
         "long": 43.3569,
         "continent": "Asia",
         "flag": "https://flagcdn.com/ge.svg"
+    },
+    {
+        "code": "ZA",
+        "name": "South Africa",
+        "lat": -30.5595,
+        "long": 22.9375,
+        "continent": "Africa",
+        "flag": "https://flagcdn.com/za.svg"
+    },
+    {
+        "code": "CN",
+        "name": "China",
+        "lat": 35.8617,
+        "long": 104.1954,
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/cn.svg"
     }
 ]
