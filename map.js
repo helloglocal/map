@@ -74,7 +74,7 @@ function loadData(file) {
                 div.transition()
                     .duration(200)
                     .style("opacity", .9);
-                div.html("<img src=" + d.flag + " width='64' height='64' /><br/>" + d.name)
+                div.html("<img src=" + d.flag + " width='64' height='64' /><br/>" + d.country)
                     .style("left", (event.clientX + 10) + "px") // Updated
                     .style("top", (event.clientY - 80) + "px"); // Updated
             })

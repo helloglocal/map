@@ -1,0 +1,2270 @@
+[
+    {
+        "code": "NO",
+        "country": "Norway",
+        "city": "Vang",
+        "lat": 61.1151,
+        "long": 8.5661,
+        "flag": "https://flagcdn.com/no.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IT",
+        "country": "Italy",
+        "city": "Lago",
+        "lat": 45.6389,
+        "long": 10.7522,
+        "flag": "https://flagcdn.com/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "NO",
+        "country": "Norway",
+        "city": "Oslo",
+        "lat": 59.9139,
+        "long": 10.7522,
+        "flag": "https://flagcdn.com/no.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "New Delhi",
+        "lat": 28.6139,
+        "long": 77.209,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Kyoto",
+        "lat": 35.0116,
+        "long": 135.7681,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "CZ",
+        "country": "Czech Republic",
+        "city": "Prague",
+        "lat": 50.0755,
+        "long": 14.4378,
+        "flag": "https://flagcdn.com/cz.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GR",
+        "country": "Greece",
+        "city": "Athens",
+        "lat": 37.9838,
+        "long": 23.7275,
+        "flag": "https://flagcdn.com/gr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "TR",
+        "country": "T\u00fcrkiye",
+        "city": "Istanbul",
+        "lat": 41.0082,
+        "long": 28.9784,
+        "flag": "https://flagcdn.com/tr.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "DelhiIndia",
+        "lat": 20.5937,
+        "long": 78.9629,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Barcelona",
+        "lat": 41.3851,
+        "long": 2.1734,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Lisbon",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "PL",
+        "country": "Poland",
+        "city": "Warsaw",
+        "lat": 51.9194,
+        "long": 19.1451,
+        "flag": "https://flagcdn.com/pl.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "HI",
+        "country": "Hawaii",
+        "city": "Honolulu",
+        "lat": 19.8987,
+        "long": 155.6659,
+        "flag": "https://flagcdn.com/hi.svg",
+        "continent": "Oceania"
+    },
+    {
+        "code": "PL",
+        "country": "Poland",
+        "city": "Warsaw",
+        "lat": 51.9194,
+        "long": 19.1451,
+        "flag": "https://flagcdn.com/pl.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "PL",
+        "country": "Poland",
+        "city": "Wroclaw",
+        "lat": 51.9194,
+        "long": 19.1451,
+        "flag": "https://flagcdn.com/pl.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CA",
+        "country": "Canada",
+        "city": "Calgary",
+        "lat": 56.1304,
+        "long": -106.3468,
+        "flag": "https://flagcdn.com/ca.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "BG",
+        "country": "Bulgaria",
+        "city": "Sofia",
+        "lat": 42.6977,
+        "long": 23.3219,
+        "flag": "https://flagcdn.com/bg.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IT",
+        "country": "Italy",
+        "city": "Matera",
+        "lat": 41.8719,
+        "long": 12.5674,
+        "flag": "https://flagcdn.com/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CA",
+        "country": "Canada",
+        "city": "Montreal",
+        "lat": 45.5017,
+        "long": -73.5673,
+        "flag": "https://flagcdn.com/ca.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "MX",
+        "country": "Mexico",
+        "city": "San Cristobal de las Casas",
+        "lat": 23.6345,
+        "long": -102.5528,
+        "flag": "https://flagcdn.com/mx.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "NZ",
+        "country": "New Zealand",
+        "city": "Auckland",
+        "lat": 40.9006,
+        "long": 174.8860,
+        "flag": "https://flagcdn.com/nz.svg",
+        "continent": "Oceania"
+    },
+    {
+        "code": "TW",
+        "country": "Taiwan",
+        "city": "Taipei",
+        "lat": 23.6978,
+        "long": 120.9605,
+        "flag": "https://flagcdn.com/tw.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "MY",
+        "country": "Malaysia",
+        "city": "Kuala Lumpur",
+        "lat": 4.2105,
+        "long": 101.9758,
+        "flag": "https://flagcdn.com/my.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "CA",
+        "country": "Canada",
+        "city": "Montreal",
+        "lat": 45.5017,
+        "long": -73.5673,
+        "flag": "https://flagcdn.com/ca.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Lisbon",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "BE",
+        "country": "Belgium",
+        "city": "Bordeaux",
+        "lat": 50.5039,
+        "long": 4.4699,
+        "flag": "https://flagcdn.com/be.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "RO",
+        "country": "Romania",
+        "city": "Bucharest",
+        "lat": 45.9432,
+        "long": 24.9668,
+        "flag": "https://flagcdn.com/ro.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ID",
+        "country": "Indonesia",
+        "city": "Bali",
+        "lat": 0.7893,
+        "long": 113.9213,
+        "flag": "https://flagcdn.com/id.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IT",
+        "country": "Italy",
+        "city": "Milan",
+        "lat": 41.8719,
+        "long": 12.5674,
+        "flag": "https://flagcdn.com/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AU",
+        "country": "Australia",
+        "city": "Brisbane, Australia",
+        "lat": -25.2744,
+        "long": 133.7751,
+        "flag": "https://flagcdn.com/au.svg",
+        "continent": "Oceania"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Funchal",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Santa Cruz de Tenerife",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "Bengaluru",
+        "lat": 20.5937,
+        "long": 78.9629,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "ZA",
+        "country": "South Africa",
+        "city": "Cape Town",
+        "lat": 30.5595,
+        "long": 22.9375,
+        "flag": "https://flagcdn.com/za.svg",
+        "continent": "Africa"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "UA",
+        "country": "Ukraine",
+        "city": "Kiev",
+        "lat": 48.3794,
+        "long": 31.1656,
+        "flag": "https://flagcdn.com/ua.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Barcelona",
+        "lat": 41.3851,
+        "long": 2.1734,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Viana",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "DK",
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "lat": 56.2639,
+        "long": 9.5018,
+        "flag": "https://flagcdn.com/dk.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CA",
+        "country": "Canada",
+        "city": "Toronto",
+        "lat": 56.1304,
+        "long": -106.3468,
+        "flag": "https://flagcdn.com/ca.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "SE",
+        "country": "Sweden",
+        "city": "Stockholm",
+        "lat": 60.1282,
+        "long": 18.6435,
+        "flag": "https://flagcdn.com/se.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Pontevedra",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AR",
+        "country": "Argentina",
+        "city": "Misiones",
+        "lat": 38.4161,
+        "long": 63.6167,
+        "flag": "https://flagcdn.com/ar.svg",
+        "continent": "South America"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Barcelona",
+        "lat": 41.3851,
+        "long": 2.1734,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Madrid",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Madrid",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AU",
+        "country": "Australia",
+        "city": "Melbourne",
+        "lat": -25.2744,
+        "long": 133.7751,
+        "flag": "https://flagcdn.com/au.svg",
+        "continent": "Oceania"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Kyoto",
+        "lat": 35.0116,
+        "long": 135.7681,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Lisbon",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CH",
+        "country": "Switzerland",
+        "city": "Zurich",
+        "lat": 46.8182,
+        "long": 8.2275,
+        "flag": "https://flagcdn.com/ch.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GE",
+        "country": "Georgia",
+        "city": "Tbilisi",
+        "lat": 32.1574,
+        "long": 82.9071,
+        "flag": "https://flagcdn.com/ge.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "KH",
+        "country": "Cambodia",
+        "city": " Phnom Penh",
+        "lat": 12.5657,
+        "long": 104.9910,
+        "flag": "https://flagcdn.com/kh.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "NL",
+        "country": "Netherlands",
+        "city": "Amsterdam",
+        "lat": 52.1326,
+        "long": 5.2913,
+        "flag": "https://flagcdn.com/nl.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AE",
+        "country": "UAE",
+        "city": "Dubai",
+        "lat": 23.4241,
+        "long": 53.8478,
+        "flag": "https://flagcdn.com/ae.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "BE",
+        "country": "Belgium",
+        "city": "Antwerp",
+        "lat": 50.5039,
+        "long": 4.4699,
+        "flag": "https://flagcdn.com/be.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DK",
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "lat": 56.2639,
+        "long": 9.5018,
+        "flag": "https://flagcdn.com/dk.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Valencia",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "TH",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "lat": 15.8700,
+        "long": 100.9925,
+        "flag": "https://flagcdn.com/th.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Rennes",
+        "lat": 46.6034,
+        "long": 1.8883,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "TH",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "lat": 15.8700,
+        "long": 100.9925,
+        "flag": "https://flagcdn.com/th.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "TR",
+        "country": "T\u00fcrkiye",
+        "city": "Istanbul",
+        "lat": 41.0082,
+        "long": 28.9784,
+        "flag": "https://flagcdn.com/tr.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "KR",
+        "country": "South Korea",
+        "city": "Seoul",
+        "lat": 35.9078,
+        "long": 127.7669,
+        "flag": "https://flagcdn.com/kr.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "NL",
+        "country": "Netherlands",
+        "city": "Amsterdam",
+        "lat": 52.1326,
+        "long": 5.2913,
+        "flag": "https://flagcdn.com/nl.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FI",
+        "country": "Finland",
+        "city": "Helsinki",
+        "lat": 61.9241,
+        "long": 25.7482,
+        "flag": "https://flagcdn.com/fi.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "SK",
+        "country": "Slovakia",
+        "city": "Bratislava",
+        "lat": 48.6690,
+        "long": 19.6990,
+        "flag": "https://flagcdn.com/sk.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IT",
+        "country": "Italy",
+        "city": "Naples",
+        "lat": 41.8719,
+        "long": 12.5674,
+        "flag": "https://flagcdn.com/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GR",
+        "country": "Greece",
+        "city": "Athens",
+        "lat": 37.9838,
+        "long": 23.7275,
+        "flag": "https://flagcdn.com/gr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "TR",
+        "country": "T\u00fcrkiye",
+        "city": "Istanbul",
+        "lat": 41.0082,
+        "long": 28.9784,
+        "flag": "https://flagcdn.com/tr.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Lisbon",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "SE",
+        "country": "Sweden",
+        "city": "Stockholm",
+        "lat": 60.1282,
+        "long": 18.6435,
+        "flag": "https://flagcdn.com/se.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "AE",
+        "country": "UAE",
+        "city": "Dubai",
+        "lat": 23.4241,
+        "long": 53.8478,
+        "flag": "https://flagcdn.com/ae.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "Mumbai",
+        "lat": 20.5937,
+        "long": 78.9629,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "TH",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "lat": 15.8700,
+        "long": 100.9925,
+        "flag": "https://flagcdn.com/th.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "HU",
+        "country": "Hungary",
+        "city": "Budapest",
+        "lat": 47.1625,
+        "long": 19.5033,
+        "flag": "https://flagcdn.com/hu.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "SE",
+        "country": "Sweden",
+        "city": "Kinnarp",
+        "lat": 60.1282,
+        "long": 18.6435,
+        "flag": "https://flagcdn.com/se.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "San Francisco",
+        "lat": 37.0902,
+        "long": -95.7129,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Kyoto",
+        "lat": 35.0116,
+        "long": 135.7681,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "MG",
+        "country": "Madagascar",
+        "city": "T\u00f4lanaro",
+        "lat": 18.7669,
+        "long": 46.8691,
+        "flag": "https://flagcdn.com/mg.svg",
+        "continent": "Africa"
+    },
+    {
+        "code": "BE",
+        "country": "Belgium",
+        "city": "Bordeaux",
+        "lat": 50.5039,
+        "long": 4.4699,
+        "flag": "https://flagcdn.com/be.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Barcelona",
+        "lat": 41.3851,
+        "long": 2.1734,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Lisbon",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Lisbon",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IT",
+        "country": "Italy",
+        "city": "Prato",
+        "lat": 41.8719,
+        "long": 12.5674,
+        "flag": "https://flagcdn.com/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "Mumbai",
+        "lat": 20.5937,
+        "long": 78.9629,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Bordeaux",
+        "lat": 46.6034,
+        "long": 1.8883,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FI",
+        "country": "Finland",
+        "city": "Helsinki",
+        "lat": 61.9241,
+        "long": 25.7482,
+        "flag": "https://flagcdn.com/fi.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DK",
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "lat": 56.2639,
+        "long": 9.5018,
+        "flag": "https://flagcdn.com/dk.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "NO",
+        "country": "Norway",
+        "city": "Oslo",
+        "lat": 59.9139,
+        "long": 10.7522,
+        "flag": "https://flagcdn.com/no.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CH",
+        "country": "Switzerland",
+        "city": "Scuol",
+        "lat": 46.8182,
+        "long": 8.2275,
+        "flag": "https://flagcdn.com/ch.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IT",
+        "country": "Italy",
+        "city": "Rome",
+        "lat": 41.8719,
+        "long": 12.5674,
+        "flag": "https://flagcdn.com/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IL",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "lat": 31.0461,
+        "long": 34.8516,
+        "flag": "https://flagcdn.com/il.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "Mumbai",
+        "lat": 20.5937,
+        "long": 78.9629,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "IS",
+        "country": "Iceland",
+        "city": "Reykjavik",
+        "lat": 64.9631,
+        "long": 19.0208,
+        "flag": "https://flagcdn.com/is.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Barcelona",
+        "lat": 41.3851,
+        "long": 2.1734,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Barcelona",
+        "lat": 41.3851,
+        "long": 2.1734,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Fujimi",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "Mumbai",
+        "lat": 20.5937,
+        "long": 78.9629,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Bordeaux",
+        "lat": 46.6034,
+        "long": 1.8883,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "HU",
+        "country": "Hungary",
+        "city": "Budapest",
+        "lat": 47.1625,
+        "long": 19.5033,
+        "flag": "https://flagcdn.com/hu.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "TH",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "lat": 15.8700,
+        "long": 100.9925,
+        "flag": "https://flagcdn.com/th.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Barcelona",
+        "lat": 41.3851,
+        "long": 2.1734,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DK",
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "lat": 56.2639,
+        "long": 9.5018,
+        "flag": "https://flagcdn.com/dk.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CO",
+        "country": "Colombia",
+        "city": "Medellin",
+        "lat": 4.5709,
+        "long": 74.2973,
+        "flag": "https://flagcdn.com/co.svg",
+        "continent": "South America"
+    },
+    {
+        "code": "SE",
+        "country": "Sweden",
+        "city": "Stockholm",
+        "lat": 60.1282,
+        "long": 18.6435,
+        "flag": "https://flagcdn.com/se.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "RS",
+        "country": "Serbia",
+        "city": "Belgrade",
+        "lat": 44.0165,
+        "long": 21.0059,
+        "flag": "https://flagcdn.com/rs.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PL",
+        "country": "Poland",
+        "city": "Gdansk",
+        "lat": 51.9194,
+        "long": 19.1451,
+        "flag": "https://flagcdn.com/pl.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "Mumbai",
+        "lat": 20.5937,
+        "long": 78.9629,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "NO",
+        "country": "Norway",
+        "city": "Oslo",
+        "lat": 59.9139,
+        "long": 10.7522,
+        "flag": "https://flagcdn.com/no.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CZ",
+        "country": "Czech Republic",
+        "city": "Prague",
+        "lat": 50.0755,
+        "long": 14.4378,
+        "flag": "https://flagcdn.com/cz.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Osaka",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "ID",
+        "country": "Indonesia",
+        "city": "Bali",
+        "lat": 0.7893,
+        "long": 113.9213,
+        "flag": "https://flagcdn.com/id.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "NZ",
+        "country": "New Zealand",
+        "city": "Auckland",
+        "lat": 40.9006,
+        "long": 174.8860,
+        "flag": "https://flagcdn.com/nz.svg",
+        "continent": "Oceania"
+    },
+    {
+        "code": "CZ",
+        "country": "Czech Republic",
+        "city": "Prague",
+        "lat": 50.0755,
+        "long": 14.4378,
+        "flag": "https://flagcdn.com/cz.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "TH",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "lat": 15.8700,
+        "long": 100.9925,
+        "flag": "https://flagcdn.com/th.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CZ",
+        "country": "Czech Republic",
+        "city": "Prague",
+        "lat": 50.0755,
+        "long": 14.4378,
+        "flag": "https://flagcdn.com/cz.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DK",
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "lat": 56.2639,
+        "long": 9.5018,
+        "flag": "https://flagcdn.com/dk.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "VN",
+        "country": "Vietnam",
+        "city": "Ho Chi Minh City",
+        "lat": 14.0583,
+        "long": 108.2772,
+        "flag": "https://flagcdn.com/vn.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "TH",
+        "country": "Thailand",
+        "city": "Changmai",
+        "lat": 15.8700,
+        "long": 100.9925,
+        "flag": "https://flagcdn.com/th.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "BG",
+        "country": "Bulgaria",
+        "city": "Sofia",
+        "lat": 42.6977,
+        "long": 23.3219,
+        "flag": "https://flagcdn.com/bg.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IT",
+        "country": "Italy",
+        "city": "Milan",
+        "lat": 41.8719,
+        "long": 12.5674,
+        "flag": "https://flagcdn.com/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Madrid",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "Hyderabad",
+        "lat": 20.5937,
+        "long": 78.9629,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "DK",
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "lat": 56.2639,
+        "long": 9.5018,
+        "flag": "https://flagcdn.com/dk.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "NZ",
+        "country": "New Zealand",
+        "city": "Auckland",
+        "lat": 40.9006,
+        "long": 174.8860,
+        "flag": "https://flagcdn.com/nz.svg",
+        "continent": "Oceania"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Tokyo",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Oiartzun (Gipuzkoa)",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "RU",
+        "country": "Russia",
+        "city": "Moscow",
+        "lat": 61.5240,
+        "long": 105.3188,
+        "flag": "https://flagcdn.com/ru.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CZ",
+        "country": "Czech Republic",
+        "city": "Prague",
+        "lat": 50.0755,
+        "long": 14.4378,
+        "flag": "https://flagcdn.com/cz.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Kyoto",
+        "lat": 35.0116,
+        "long": 135.7681,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "EG",
+        "country": "Egypt",
+        "city": "Cairo",
+        "lat": 26.8206,
+        "long": 30.8025,
+        "flag": "https://flagcdn.com/eg.svg",
+        "continent": "Africa"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GR",
+        "country": "Greece",
+        "city": "Athens",
+        "lat": 37.9838,
+        "long": 23.7275,
+        "flag": "https://flagcdn.com/gr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Bordeaux",
+        "lat": 46.6034,
+        "long": 1.8883,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Javea",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CZ",
+        "country": "Czech Republic",
+        "city": "Prague",
+        "lat": 49.8175,
+        "long": 15.4730,
+        "flag": "https://flagcdn.com/cz.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IT",
+        "country": "Italy",
+        "city": "Milan",
+        "lat": 41.8719,
+        "long": 12.5674,
+        "flag": "https://flagcdn.com/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Gran Canaria",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CA",
+        "country": "Canada",
+        "city": "Montreal",
+        "lat": 45.5017,
+        "long": -73.5673,
+        "flag": "https://flagcdn.com/ca.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "GE",
+        "country": "Georgia",
+        "city": "Tbilissi",
+        "lat": 32.1574,
+        "long": 82.9071,
+        "flag": "https://flagcdn.com/ge.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "Austin",
+        "lat": 37.0902,
+        "long": -95.7129,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "Minneapolis",
+        "lat": 37.0902,
+        "long": -95.7129,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "GR",
+        "country": "Greece",
+        "city": "Athens",
+        "lat": 37.9838,
+        "long": 23.7275,
+        "flag": "https://flagcdn.com/gr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "JP",
+        "country": "Japan",
+        "city": "Osaka",
+        "lat": 36.2048,
+        "long": 138.2529,
+        "flag": "https://flagcdn.com/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "CZ",
+        "country": "Czech Republic",
+        "city": "Brno",
+        "lat": 49.8175,
+        "long": 15.4730,
+        "flag": "https://flagcdn.com/cz.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "IT",
+        "country": "Italy",
+        "city": "Milan",
+        "lat": 41.8719,
+        "long": 12.5674,
+        "flag": "https://flagcdn.com/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "Bend, Oregon",
+        "lat": 37.0902,
+        "long": -95.7129,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "Raleigh",
+        "lat": 37.0902,
+        "long": -95.7129,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "SG",
+        "country": "Singapore",
+        "city": "Singapore",
+        "lat": 1.3521,
+        "long": 103.8198,
+        "flag": "https://flagcdn.com/sg.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "SE",
+        "country": "Sweden",
+        "city": "Stockholm",
+        "lat": 60.1282,
+        "long": 18.6435,
+        "flag": "https://flagcdn.com/se.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DK",
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "lat": 56.2639,
+        "long": 9.5018,
+        "flag": "https://flagcdn.com/dk.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "LB",
+        "country": "Lebanon",
+        "city": "Beirut",
+        "lat": 33.8547,
+        "long": 35.8623,
+        "flag": "https://flagcdn.com/lb.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "IE",
+        "country": "Ireland",
+        "city": "Dublin",
+        "lat": 53.7798,
+        "long": 7.3055,
+        "flag": "https://flagcdn.com/ie.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "SG",
+        "country": "Singapore",
+        "city": "Singapore",
+        "lat": 1.3521,
+        "long": 103.8198,
+        "flag": "https://flagcdn.com/sg.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "Bangalore",
+        "lat": 20.5937,
+        "long": 78.9629,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "US",
+        "country": "United States",
+        "city": "New York",
+        "lat": 40.7128,
+        "long": -74.006,
+        "flag": "https://flagcdn.com/us.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Lisbon",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "BE",
+        "country": "Belgium",
+        "city": "Brussels",
+        "lat": 50.5039,
+        "long": 4.4699,
+        "flag": "https://flagcdn.com/be.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "NL",
+        "country": "Netherlands",
+        "city": "Amsterdam",
+        "lat": 52.1326,
+        "long": 5.2913,
+        "flag": "https://flagcdn.com/nl.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FI",
+        "country": "Finland",
+        "city": "Helsinki",
+        "lat": 61.9241,
+        "long": 25.7482,
+        "flag": "https://flagcdn.com/fi.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "city": "New Delhi",
+        "lat": 28.6139,
+        "long": 77.209,
+        "flag": "https://flagcdn.com/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Berlin",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "DE",
+        "country": "Germany",
+        "city": "Stuttgart",
+        "lat": 51.1657,
+        "long": 10.4515,
+        "flag": "https://flagcdn.com/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ES",
+        "country": "Spain",
+        "city": "Madrid",
+        "lat": 40.4637,
+        "long": -3.7492,
+        "flag": "https://flagcdn.com/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Lisboa",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CH",
+        "country": "Switzerland",
+        "city": "Geneva",
+        "lat": 46.8182,
+        "long": 8.2275,
+        "flag": "https://flagcdn.com/ch.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "CA",
+        "country": "Canada",
+        "city": "Vancouver",
+        "lat": 56.1304,
+        "long": -106.3468,
+        "flag": "https://flagcdn.com/ca.svg",
+        "continent": "North America"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "TH",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "lat": 15.8700,
+        "long": 100.9925,
+        "flag": "https://flagcdn.com/th.svg",
+        "continent": "Asia"
+    },
+    {
+        "code": "FR",
+        "country": "France",
+        "city": "Paris",
+        "lat": 48.8566,
+        "long": 2.3522,
+        "flag": "https://flagcdn.com/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "NO",
+        "country": "Norway",
+        "city": "Oslo",
+        "lat": 59.9139,
+        "long": 10.7522,
+        "flag": "https://flagcdn.com/no.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "ZA",
+        "country": "South Africa",
+        "city": "Cape Town",
+        "lat": 30.5595,
+        "long": 22.9375,
+        "flag": "https://flagcdn.com/za.svg",
+        "continent": "Africa"
+    },
+    {
+        "code": "PT",
+        "country": "Portugal",
+        "city": "Porto",
+        "lat": 41.1579,
+        "long": -8.6291,
+        "flag": "https://flagcdn.com/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "GB",
+        "country": "United Kingdom",
+        "city": "London",
+        "lat": 51.5074,
+        "long": -0.1278,
+        "flag": "https://flagcdn.com/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "code": "AT",
+        "country": "Austria",
+        "city": "Vienna",
+        "lat": 48.2082,
+        "long": 16.3738,
+        "flag": "https://flagcdn.com/at.svg",
+        "continent": "Europe"
+    }
+]

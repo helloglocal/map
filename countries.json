@@ -1,7 +1,7 @@
 [
     {
         "code": "GB",
-        "name": "United Kingdom",
+        "country": "United Kingdom",
         "lat": 55.3781,
         "long": -3.4360,
         "continent": "Europe",
@@ -9,7 +9,7 @@
     },
     {
         "code": "US",
-        "name": "United States",
+        "country": "United States",
         "lat": 37.0902,
         "long": -95.7129,
         "continent": "North America",
@@ -17,7 +17,7 @@
     },
     {
         "code": "DE",
-        "name": "Germany",
+        "country": "Germany",
         "lat": 51.1657,
         "long": 10.4515,
         "continent": "Europe",
@@ -25,7 +25,7 @@
     },
     {
         "code": "AT",
-        "name": "Austria",
+        "country": "Austria",
         "lat": 47.5162,
         "long": 14.5501,
         "continent": "Europe",
@@ -33,7 +33,7 @@
     },
     {
         "code": "ES",
-        "name": "Spain",
+        "country": "Spain",
         "lat": 40.4637,
         "long": -3.7492,
         "continent": "Europe",
@@ -41,7 +41,7 @@
     },
     {
         "code": "BE",
-        "name": "Belgium",
+        "country": "Belgium",
         "lat": 50.5039,
         "long": 4.4699,
         "continent": "Europe",
@@ -49,7 +49,7 @@
     },
     {
         "code": "CH",
-        "name": "Switzerland",
+        "country": "Switzerland",
         "lat": 46.8182,
         "long": 8.2275,
         "continent": "Europe",
@@ -57,7 +57,7 @@
     },
     {
         "code": "FR",
-        "name": "France",
+        "country": "France",
         "lat": 46.6034,
         "long": 1.8883,
         "continent": "Europe",
@@ -65,7 +65,7 @@
     },
     {
         "code": "JP",
-        "name": "Japan",
+        "country": "Japan",
         "lat": 36.2048,
         "long": 138.2529,
         "continent": "Asia",
@@ -73,7 +73,7 @@
     },
     {
         "code": "PT",
-        "name": "Portugal",
+        "country": "Portugal",
         "lat": 39.3999,
         "long": -8.2245,
         "continent": "Europe",
@@ -81,7 +81,7 @@
     },
     {
         "code": "AU",
-        "name": "Australia",
+        "country": "Australia",
         "lat": -25.2744,
         "long": 133.7751,
         "continent": "Oceania",
@@ -89,7 +89,7 @@
     },
     {
         "code": "RO",
-        "name": "Romania",
+        "country": "Romania",
         "lat": 45.9432,
         "long": 24.9668,
         "continent": "Europe",
@@ -97,7 +97,7 @@
     },
     {
         "code": "SE",
-        "name": "Sweden",
+        "country": "Sweden",
         "lat": 60.1282,
         "long": 18.6435,
         "continent": "Europe",
@@ -105,7 +105,7 @@
     },
     {
         "code": "BA",
-        "name": "Bosnia and Herzegovina",
+        "country": "Bosnia and Herzegovina",
         "lat": 43.9159,
         "long": 17.6791,
         "continent": "Europe",
@@ -113,7 +113,7 @@
     },
     {
         "code": "IN",
-        "name": "India",
+        "country": "India",
         "lat": 20.5937,
         "long": 78.9629,
         "continent": "Asia",
@@ -121,7 +121,7 @@
     },
     {
         "code": "BG",
-        "name": "Bulgaria",
+        "country": "Bulgaria",
         "lat": 42.7339,
         "long": 25.4858,
         "continent": "Europe",
@@ -129,7 +129,7 @@
     },
     {
         "code": "NZ",
-        "name": "New Zealand",
+        "country": "New Zealand",
         "lat": -40.9006,
         "long": 174.8860,
         "continent": "Oceania",
@@ -137,7 +137,7 @@
     },
     {
         "code": "CA",
-        "name": "Canada",
+        "country": "Canada",
         "lat": 56.1304,
         "long": -106.3468,
         "continent": "North America",
@@ -145,7 +145,7 @@
     },
     {
         "code": "IT",
-        "name": "Italy",
+        "country": "Italy",
         "lat": 41.8719,
         "long": 12.5674,
         "continent": "Europe",
@@ -153,7 +153,7 @@
     },
     {
         "code": "DK",
-        "name": "Denmark",
+        "country": "Denmark",
         "lat": 56.2639,
         "long": 9.5018,
         "continent": "Europe",
@@ -161,7 +161,7 @@
     },
     {
         "code": "FI",
-        "name": "Finland",
+        "country": "Finland",
         "lat": 61.9241,
         "long": 25.7482,
         "continent": "Europe",
@@ -169,7 +169,7 @@
     },
     {
         "code": "UA",
-        "name": "Ukraine",
+        "country": "Ukraine",
         "lat": 48.3794,
         "long": 31.1656,
         "continent": "Europe",
@@ -177,7 +177,7 @@
     },
     {
         "code": "NL",
-        "name": "Netherlands",
+        "country": "Netherlands",
         "lat": 52.1326,
         "long": 5.2913,
         "continent": "Europe",
@@ -185,7 +185,7 @@
     },
     {
         "code": "MX",
-        "name": "Mexico",
+        "country": "Mexico",
         "lat": 23.6345,
         "long": -102.5528,
         "continent": "North America",
@@ -193,7 +193,7 @@
     },
     {
         "code": "BR",
-        "name": "Brazil",
+        "country": "Brazil",
         "lat": -14.2350,
         "long": -51.9253,
         "continent": "South America",
@@ -201,7 +201,7 @@
     },
     {
         "code": "PL",
-        "name": "Poland",
+        "country": "Poland",
         "lat": 51.9194,
         "long": 19.1451,
         "continent": "Europe",
@@ -209,7 +209,7 @@
     },
     {
         "code": "NO",
-        "name": "Norway",
+        "country": "Norway",
         "lat": 60.4720,
         "long": 8.4689,
         "continent": "Europe",
@@ -217,7 +217,7 @@
     },
     {
         "code": "SI",
-        "name": "Slovenia",
+        "country": "Slovenia",
         "lat": 46.0569,
         "long": 14.5058,
         "continent": "Europe",
@@ -225,7 +225,7 @@
     },
     {
         "code": "PH",
-        "name": "Philippines",
+        "country": "Philippines",
         "lat": 13.41,
         "long": 122.56,
         "continent": "Asia",
@@ -233,7 +233,7 @@
     },
     {
         "code": "HK",
-        "name": "Hong Kong",
+        "country": "Hong Kong",
         "lat": 22.3193,
         "long": 114.1694,
         "continent": "Asia",
@@ -241,7 +241,7 @@
     },
     {
         "code": "SK",
-        "name": "Slovakia",
+        "country": "Slovakia",
         "lat": 48.1486,
         "long": 17.1077,
         "continent": "Europe",
@@ -249,7 +249,7 @@
     },
     {
         "code": "AE",
-        "name": "United Arab Emirates",
+        "country": "United Arab Emirates",
         "lat": 24.4539,
         "long": 54.3773,
         "continent": "Asia",
@@ -257,7 +257,7 @@
     },
     {
         "code": "RU",
-        "name": "Russia",
+        "country": "Russia",
         "lat": 55.75,
         "long": 37.6167,
         "continent": "Europe",
@@ -265,7 +265,7 @@
     },
     {
         "code": "TR",
-        "name": "Turkey",
+        "country": "Turkey",
         "lat": 39.9334,
         "long": 32.8597,
         "continent": "Asia",
@@ -273,7 +273,7 @@
     },
     {
         "code": "CZ",
-        "name": "Czech Republic",
+        "country": "Czech Republic",
         "lat": 50.0736,
         "long": 14.4183,
         "continent": "Europe",
@@ -281,7 +281,7 @@
     },
     {
         "code": "AL",
-        "name": "Albania",
+        "country": "Albania",
         "lat": 41.3275,
         "long": 19.8187,
         "continent": "Europe",
@@ -289,7 +289,7 @@
     },
     {
         "code": "IE",
-        "name": "Ireland",
+        "country": "Ireland",
         "lat": 53.3498,
         "long": -6.2603,
         "continent": "Europe",
@@ -297,7 +297,7 @@
     },
     {
         "code": "EG",
-        "name": "Egypt",
+        "country": "Egypt",
         "lat": 30.0444,
         "long": 31.2357,
         "continent": "Africa",
@@ -305,7 +305,7 @@
     },
     {
         "code": "LV",
-        "name": "Latvia",
+        "country": "Latvia",
         "lat": 56.9496,
         "long": 24.1052,
         "continent": "Europe",
@@ -313,7 +313,7 @@
     },
     {
         "code": "HU",
-        "name": "Hungary",
+        "country": "Hungary",
         "lat": 47.4979,
         "long": 19.0402,
         "continent": "Europe",
@@ -321,7 +321,7 @@
     },
     {
         "code": "VN",
-        "name": "Vietnam",
+        "country": "Vietnam",
         "lat": 21.0285,
         "long": 105.8542,
         "continent": "Asia",
@@ -329,7 +329,7 @@
     },
     {
         "code": "GR",
-        "name": "Greece",
+        "country": "Greece",
         "lat": 39.0742,
         "long": 21.8243,
         "continent": "Europe",
@@ -337,7 +337,7 @@
     },
     {
         "code": "LU",
-        "name": "Luxembourg",
+        "country": "Luxembourg",
         "lat": 49.8153,
         "long": 6.1296,
         "continent": "Europe",
@@ -345,7 +345,7 @@
     },
     {
         "code": "KR",
-        "name": "South Korea",
+        "country": "South Korea",
         "lat": 35.9078,
         "long": 127.7669,
         "continent": "Asia",
@@ -353,7 +353,7 @@
     },
     {
         "code": "MY",
-        "name": "Malaysia",
+        "country": "Malaysia",
         "lat": 4.2105,
         "long": 101.9758,
         "continent": "Asia",
@@ -361,7 +361,7 @@
     },
     {
         "code": "TW",
-        "name": "Taiwan",
+        "country": "Taiwan",
         "lat": 23.6978,
         "long": 120.9605,
         "continent": "Asia",
@@ -369,7 +369,7 @@
     },
     {
         "code": "IL",
-        "name": "Israel",
+        "country": "Israel",
         "lat": 31.0461,
         "long": 34.8516,
         "continent": "Asia",
@@ -377,7 +377,7 @@
     },
     {
         "code": "GE",
-        "name": "Georgia",
+        "country": "Georgia",
         "lat": 42.3154,
         "long": 43.3569,
         "continent": "Asia",
@@ -385,7 +385,7 @@
     },
     {
         "code": "ZA",
-        "name": "South Africa",
+        "country": "South Africa",
         "lat": -30.5595,
         "long": 22.9375,
         "continent": "Africa",
@@ -393,7 +393,7 @@
     },
     {
         "code": "CN",
-        "name": "China",
+        "country": "China",
         "lat": 35.8617,
         "long": 104.1954,
         "continent": "Asia",
@@ -401,7 +401,7 @@
     },
     {
         "code": "AR",
-        "name": "Argentina",
+        "country": "Argentina",
         "lat": -34.6037,
         "long": -58.3816,
         "continent": "South America",
